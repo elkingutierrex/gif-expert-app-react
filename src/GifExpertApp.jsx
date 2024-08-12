@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import './styles.css';
 
 export const GifExpertApp = () => {
   return (
     <>
-        <h2>GifExpertApp</h2>
+        <h1>GifExpertApp</h1>
       
     </>
   )
